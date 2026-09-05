@@ -1,6 +1,7 @@
 # Ex.No.9: Exploration of Prompting Techniques for Video Generation
 
-**Date:** 05-09-2026 
+**Date:** 05-09-2026
+**NAME:** Jesubalan A
 **Register No:** 212223240060    
 
 ---
